@@ -1,0 +1,16 @@
+{
+  "name": "midudev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "standard": "^17.1.0",
+    "vitest": "^0.32.0"
+  }
+}
